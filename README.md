@@ -1,3 +1,5 @@
+This is a fork of the Pattern Collider repository, created by Aatish Bhatia in collaboration with Henry Reich, for the purpose of creating a varient pattern. The attempted varient aims to create a pattern which repeats in one direction, along one vector, but to never repeat in any other direction, along any liniarly independent vector.
+
 # Pattern Collider
 
 https://aatishb.com/patterncollider/
